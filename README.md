@@ -2,4 +2,4 @@
 
 ## Task
 
-# Practise Internal CSS.
+Practise Internal CSS.
